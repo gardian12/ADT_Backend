@@ -11,6 +11,14 @@
     <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
    </VSEOCLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_REQUEST_URI</CMPNAME>
+     <SCONAME>ZCX_ABAPGIT_EXCEPTION</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>abapGit - Exception</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
   </asx:values>
  </asx:abap>
 </abapGit>
